@@ -1,0 +1,50 @@
+# BATIMENTO ID : 838799931042262
+### HISTORICO DE RUNS - BATIMENTOS; "runs"[{}]
+GET https://adb-3694987222772985.5.azuredatabricks.net/api/2.1/jobs/runs/list?job_id=838799931042262 HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json
+
+
+### RUN ESPECIFICA - ex ultima execucao
+GET https://adb-3694987222772985.5.azuredatabricks.net/api/2.1/jobs/runs/get?run_id=455957382883893 HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json
+
+
+### FUNDO ESPECIFICO da ultima execucao
+GET https://adb-3694987222772985.5.azuredatabricks.net/api/2.1/jobs/runs/get-output?run_id=632670283134204 HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json
+
+### BATIMENTOS A-H da execucao selecionada
+GET https://adb-3694987222772985.5.azuredatabricks.net/api/2.1/jobs/runs/get?run_id=308123607244862 HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json\
+
+### BATIMENTO D .error
+GET https://adb-3694987222772985.5.azuredatabricks.net/api/2.1/jobs/runs/get-output?run_id=337506206307359 HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json
+
+### BATIMENTO D .error
+GET https://sistemas.cvm.gov.br/docsrecebidos/20200310113210UP3f6ecb6624c745658f8a34ab64ac6184.pdf HTTP/1.1
+Authorization: Bearer dapi0623242a7e6f05190933214f08f250f5-3
+Content-Type: application/json
+
+
+### TESTANDO PROPRIA API
+GET http://127.0.0.1:5000/api?error_parameter=IndexError
+Content-Type: application/json
+
+
+
+
+### Exemplo de requisição POST
+# POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+# Content-Type: application/json
+
+# {
+#   "title": "foo",
+#   "body": "bar",
+#   "userId": 1
+# }

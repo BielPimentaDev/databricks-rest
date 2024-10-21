@@ -1,0 +1,517 @@
+[
+    {
+        "mes": "6",
+        "fundos": [
+            {
+                "fundo": "MOLEIRO CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/120482772762677"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/834813430010459"
+                    }
+                ]
+            },
+            {
+                "fundo": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS FORTBRASIL",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/509712688679847"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/624797314912398"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/754907619019330"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/163740353374953"
+                    }
+                ]
+            },
+            {
+                "fundo": "RB CAPITAL CREDIT ALPHA STRATEGY I FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/193472125331860"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/808850362861479"
+                    }
+                ]
+            },
+            {
+                "fundo": "ESTRATÉGIA VINCULADA II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/1088283125940532"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALOR` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/527916298213982"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/627638750659757"
+                    }
+                ]
+            },
+            {
+                "fundo": "PAGEDU FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor Pago` cannot be resolved. Did you mean one of the following? []. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/14942675679192"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/1100173067041288"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/942028059607075"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/111554881518974"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/1115922915974293"
+                    }
+                ]
+            },
+            {
+                "fundo": "ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/793877364152896"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALOR` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/3129694760906"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/775399967842895"
+                    }
+                ]
+            },
+            {
+                "fundo": "FARMTECH SYNGENTA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/943442014923284"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/830278670854593"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/506694527520392"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALOR` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/215316959107784"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/290237748593537"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/471892136362481"
+                    }
+                ]
+            },
+            {
+                "fundo": "PÁTRIA INFRA CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/650693470219292"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/870495456638889"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/398403491912443"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALOR` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/151411745310768"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/504192392048683"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/755320897410753"
+                    }
+                ]
+            },
+            {
+                "fundo": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NUTRIEN I",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_d1",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/177153814396068"
+                    },
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/96141880186440"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/54406295174066"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/422491698961703"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/667618951572867"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/814519982123302"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/162862534543907"
+                    },
+                    {
+                        "batimento": "Batimento_a",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/183759120845963"
+                    }
+                ]
+            },
+            {
+                "fundo": "AUTOMOTIVO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/244558984066343"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/239342278999167"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/86028957531531"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/179368507559102"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/664694598206651"
+                    }
+                ]
+            },
+            {
+                "fundo": "VÔNGOLE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/83841503874010"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/946325145825369"
+                    }
+                ]
+            },
+            {
+                "fundo": "SAN Créditos Estruturados I Fundo de Investimento em Direitos Creditórios Não Padronizados",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/166326863667213"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/230006699823859"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/983148784335789"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/803256558109335"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/114527481747137"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/542231109884342"
+                    }
+                ]
+            },
+            {
+                "fundo": "CORTEVA AGRISCIENCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS I",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/453278700765521"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/811356590741804"
+                    }
+                ]
+            },
+            {
+                "fundo": "FARM TECH IBBA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/56813664163966"
+                    }
+                ]
+            },
+            {
+                "fundo": "BRADESCO FARMTECH FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS FIAGRO - DC",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/486596103108289"
+                    }
+                ]
+            },
+            {
+                "fundo": "ESTRATÉGIA VINCULADA II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "[UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `Valor de Aquisicao` cannot be resolved. Did you mean one of the following? [`Data de Entrada`]. SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/570082782297896"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALOR` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/69290498907660"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/504365851661283"
+                    }
+                ]
+            },
+            {
+                "fundo": "MAQNELSON FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_d1",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/607941787962968"
+                    },
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/20442304459316"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/907888584264089"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/664851909369924"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/250316424549543"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/497599119936521"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/421911567031544"
+                    },
+                    {
+                        "batimento": "Batimento_a",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/39797309650553"
+                    }
+                ]
+            },
+            {
+                "fundo": "MCPO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_d1",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/19097181971472"
+                    },
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/1098588951056866"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/327766246604653"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/632325072229337"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `VALORLIQUIDO` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/996437649512217"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/960882445715457"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/783384744848683"
+                    },
+                    {
+                        "batimento": "Batimento_a",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/1078097165490294"
+                    }
+                ]
+            },
+            {
+                "fundo": "PÁTRIA CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+                "batimentos": [
+                    {
+                        "batimento": "Batimento_d1",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/664887862808253"
+                    },
+                    {
+                        "batimento": "Batimento_c",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/401939066155945"
+                    },
+                    {
+                        "batimento": "Batimento_d",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/935056259822898"
+                    },
+                    {
+                        "batimento": "Batimento_h",
+                        "erro": "[UNRESOLVED_COLUMN.WITHOUT_SUGGESTION] A column, variable, or function parameter with name `Valor Presente` cannot be resolved.  SQLSTATE: 42703",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/350657063857319"
+                    },
+                    {
+                        "batimento": "Batimento_b",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/785776714449984"
+                    },
+                    {
+                        "batimento": "Batimento_f",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/967364287097605"
+                    },
+                    {
+                        "batimento": "Batimento_e",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/969141609131554"
+                    },
+                    {
+                        "batimento": "Batimento_a",
+                        "erro": "IndexError: list index out of range",
+                        "link": "https://adb-3694987222772985.5.azuredatabricks.net/?o=3694987222772985#job/539449877491210/run/865926846884457"
+                    }
+                ]
+            }
+        ]
+    }
+]
